@@ -11,7 +11,7 @@ jobs:
       
     steps:
       - name: Clone repository
-        uses: actions/checkout@YOUR_NEW_VERSION
+        uses: actions/checkout@v3
 
       - name: download
         run: |
